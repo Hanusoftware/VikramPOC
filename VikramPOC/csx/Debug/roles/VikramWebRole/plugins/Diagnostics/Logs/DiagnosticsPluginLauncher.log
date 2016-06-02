@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [25-05-2016 AM 10:07:20] Emulator config file set to C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\csx\Debug\roles\VikramWebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [25-05-2016 AM 10:07:20] DiagnosticsStoreRootPath set to: C:\Users\vikram.singh\AppData\Local\dftmp\Resources\ca085eb3-9426-4a7f-8338-6219aed65efb
+DiagnosticsPluginLauncher.exe Information: 0 : [25-05-2016 AM 10:07:20] Loading config file: C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\csx\Debug\roles\VikramWebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [25-05-2016 AM 10:07:20] Config file to read: C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\csx\Debug\roles\VikramWebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [25-05-2016 AM 10:07:20] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [25-05-2016 AM 10:07:20] Emulator config file set to C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\csx\Debug\roles\VikramWebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [25-05-2016 AM 10:07:20] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [25-05-2016 AM 10:07:20] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [25-05-2016 AM 10:07:20] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [25-05-2016 AM 10:07:20] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [25-05-2016 AM 10:07:20] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [25-05-2016 AM 10:07:20] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [25-05-2016 AM 10:07:20] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [25-05-2016 AM 10:07:20] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [25-05-2016 AM 10:07:20] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [25-05-2016 AM 10:08:30] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [25-05-2016 AM 10:08:30] DiagnosticPlugin exited with code 0

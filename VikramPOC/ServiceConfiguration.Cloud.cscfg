@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="VikramPOC" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="4" osVersion="*" schemaVersion="2015-04.2.6">
+  <Role name="VikramWebRole">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=vikramastoragedb;AccountKey=+Yq1gWkCcLB7GAynlgckt7lfDDWyco1D7qnMlfCXlatiUONB9PMu+eQcIufYb2E6xz4oTPenr6aor4SLSPCSWQ==" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.Enabled" value="true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountUsername" value="vikram" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountEncryptedPassword" value="MIIBnQYJKoZIhvcNAQcDoIIBjjCCAYoCAQAxggFOMIIBSgIBADAyMB4xHDAaBgNVBAMME1dpbmRvd3MgQXp1cmUgVG9vbHMCEHKlPZkiQ82hSD53x/vY3MQwDQYJKoZIhvcNAQEBBQAEggEAZmmCrqD/iJsglEV/uOzv9VQe9NodoGD/kfCBKT8YdUb7hoHAsILXMRAXWzjHSHGtppg5j1jAplCjIr83nqB1t48vKyAWs+on03cCY4oUDSrPmHR2M8J0ciPPUOHzLphfShjpccf/GcuIRL4BRn8v/k59ncxRweLVBdmxIZBBLrD9jS089gttr3dOZZtZkRmXANZzobLrq/hWJNLTXFmv1kjBl+z5pkq5776GLcIWKhPZt2dvqqxegfeHou2IEjiH1olAh3tWSIlYS5xW6wsknHuFMls/pDDdC9PrG2A5D7JxxAucUsimJihNKqVyK1aR432QDRM7izMjWGkWU7PRpTAzBgkqhkiG9w0BBwEwFAYIKoZIhvcNAwcECOmilbm39hMDgBCOQLeQxVRP1bTV2Je3saHy" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountExpiration" value="2017-06-01T23:59:59.0000000+05:30" />
+      <Setting name="APPINSIGHTS_INSTRUMENTATIONKEY" value="bb3f397a-a64e-4164-9e91-f76763d050f6" />
+    </ConfigurationSettings>
+    <Certificates>
+      <Certificate name="Microsoft.WindowsAzure.Plugins.RemoteAccess.PasswordEncryption" thumbprint="FF4F9436428191F2ABFBB9F2EEA07E0CE07DCBE3" thumbprintAlgorithm="sha1" />
+    </Certificates>
+  </Role>
+  <Role name="VikramWorkerRole">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=vikramastoragedb;AccountKey=+Yq1gWkCcLB7GAynlgckt7lfDDWyco1D7qnMlfCXlatiUONB9PMu+eQcIufYb2E6xz4oTPenr6aor4SLSPCSWQ==" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.Enabled" value="true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountUsername" value="vikram" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountEncryptedPassword" value="MIIBnQYJKoZIhvcNAQcDoIIBjjCCAYoCAQAxggFOMIIBSgIBADAyMB4xHDAaBgNVBAMME1dpbmRvd3MgQXp1cmUgVG9vbHMCEHKlPZkiQ82hSD53x/vY3MQwDQYJKoZIhvcNAQEBBQAEggEAZmmCrqD/iJsglEV/uOzv9VQe9NodoGD/kfCBKT8YdUb7hoHAsILXMRAXWzjHSHGtppg5j1jAplCjIr83nqB1t48vKyAWs+on03cCY4oUDSrPmHR2M8J0ciPPUOHzLphfShjpccf/GcuIRL4BRn8v/k59ncxRweLVBdmxIZBBLrD9jS089gttr3dOZZtZkRmXANZzobLrq/hWJNLTXFmv1kjBl+z5pkq5776GLcIWKhPZt2dvqqxegfeHou2IEjiH1olAh3tWSIlYS5xW6wsknHuFMls/pDDdC9PrG2A5D7JxxAucUsimJihNKqVyK1aR432QDRM7izMjWGkWU7PRpTAzBgkqhkiG9w0BBwEwFAYIKoZIhvcNAwcECOmilbm39hMDgBCOQLeQxVRP1bTV2Je3saHy" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountExpiration" value="2017-06-01T23:59:59.0000000+05:30" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteForwarder.Enabled" value="true" />
+      <Setting name="APPINSIGHTS_INSTRUMENTATIONKEY" value="bb3f397a-a64e-4164-9e91-f76763d050f6" />
+    </ConfigurationSettings>
+    <Certificates>
+      <Certificate name="Microsoft.WindowsAzure.Plugins.RemoteAccess.PasswordEncryption" thumbprint="FF4F9436428191F2ABFBB9F2EEA07E0CE07DCBE3" thumbprintAlgorithm="sha1" />
+    </Certificates>
+  </Role>
+</ServiceConfiguration>

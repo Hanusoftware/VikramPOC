@@ -1,0 +1,96 @@
+﻿@model List<VikramWebRole.Models.BlobModel>
+@{
+    ViewBag.Title = "UploadBlobBySAS";
+}
+
+<h2>UploadBlobBySAS</h2>
+@using (Html.BeginForm("UploadBlobSign", "blobsasc", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <table>
+        <tr>
+            <td><b>Select File To Upload</b></td>
+            <td>
+                <input type="file" name="file" id="fileToUpload" />
+
+            </td>
+
+        </tr>
+        <tr>
+            <td><input type="submit" name="Submit" id="Submit" value="Upload" /></td>
+
+        </tr>
+    </table>
+    <div class="upload">
+        <div style="width: 500px;">
+            <table id="uloadTable" border="1">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @if (Model.Count > 0)
+                    {
+                        foreach (var element in Model[0].Urls)
+                        {
+                            <tr id="@element.FileName">
+                                <td>
+
+                                    <img width="100" height="50" border="0" src="@element.DocUrl" class="viewc">
+                                </td>
+                                <td>
+
+                                    @Html.ActionLink("Download", "DownloadDocShared", new { docfile = @element.DocUrl, docname = @element.FileName })
+
+                                </td>
+                            </tr>
+                        }
+                    }
+
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+}
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script type="text/jscript">
+    $(document).ready(function ()
+    {
+
+        $("#Submit").click(function() {
+            if ($('#fileToUpload').val() == "") {
+
+                alert("Please upload file");
+                return false;
+            }
+            else {
+                return checkfile();
+            }
+        });
+    });
+    function checkfile() {
+        var file = getNameFromPath($("#fileToUpload").val());
+        if (file != null) {
+            var extension = file.substr((file.lastIndexOf('.') + 1));
+            // alert(extension);
+            switch (extension) {
+                case 'jpg':
+                case 'png':
+                case 'gif':
+                case 'pdf':
+                    flag = true;
+                    break;
+                default:
+                    flag = false;
+            }
+        }
+        if (flag == false) {
+            $("#spanfile").text("You can upload only jpg,png,gif,pdf extension file");
+            return false;
+        }
+    }
+</script>
+

@@ -1,0 +1,496 @@
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\bin\Debug\ServiceDefinition.csdef
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Antlr3.Runtime.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Antlr3.Runtime.pdb
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\de\System.Spatial.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\EntityFramework.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\EntityFramework.SqlServer.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\EntityFramework.SqlServer.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\EntityFramework.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\es\System.Spatial.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\fr\System.Spatial.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\it\System.Spatial.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ja\System.Spatial.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ko\System.Spatial.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Data.Edm.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Data.Edm.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Data.OData.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Data.OData.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Data.Services.Client.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Data.Services.Client.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\MonAgentListener.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Newtonsoft.Json.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Newtonsoft.Json.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Owin.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\csc.exe
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\vbc.exe
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\VBCSCompiler.exe
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ru\System.Spatial.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Spatial.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Spatial.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Helpers.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Helpers.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Mvc.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Mvc.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Optimization.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Optimization.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Razor.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Razor.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.WebPages.Deployment.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.WebPages.Deployment.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.WebPages.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.WebPages.Razor.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.WebPages.Razor.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.WebPages.xml
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\VikramWebRole.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\VikramWebRole.dll.config
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\VikramWebRole.pdb
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\WebGrease.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\csc.exe.config
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\csc.rsp
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\csi.exe
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\csi.rsp
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\System.AppContext.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\vbc.exe.config
+C:\Users\a.kumar\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\vbc.rsp
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\bin\Debug\ServiceDefinition.csdef
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Antlr3.Runtime.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Antlr3.Runtime.pdb
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\de\System.Spatial.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\EntityFramework.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\EntityFramework.SqlServer.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\EntityFramework.SqlServer.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\EntityFramework.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\es\System.Spatial.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\fr\System.Spatial.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\it\System.Spatial.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ja\System.Spatial.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ko\System.Spatial.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Data.Edm.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Data.Edm.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Data.OData.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Data.OData.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Data.Services.Client.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Data.Services.Client.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\MonAgentListener.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Newtonsoft.Json.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Newtonsoft.Json.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Owin.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\csc.exe
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\csc.exe.config
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\csc.rsp
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\csi.exe
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\csi.rsp
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\System.AppContext.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\vbc.exe
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\vbc.exe.config
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\vbc.rsp
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\VBCSCompiler.exe
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ru\System.Spatial.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Spatial.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Spatial.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Helpers.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Helpers.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Mvc.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Mvc.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Optimization.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Optimization.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Razor.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Razor.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.WebPages.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.WebPages.Razor.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.WebPages.Razor.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.WebPages.xml
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\VikramWebRole.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\VikramWebRole.dll.config
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\VikramWebRole.pdb
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\WebGrease.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Desktop\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\bin\Debug\ServiceDefinition.csdef
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Antlr3.Runtime.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Antlr3.Runtime.pdb
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\de\System.Spatial.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\EntityFramework.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\EntityFramework.SqlServer.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\EntityFramework.SqlServer.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\EntityFramework.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\es\System.Spatial.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\fr\System.Spatial.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\it\System.Spatial.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ja\System.Spatial.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ko\System.Spatial.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Data.Edm.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Data.Edm.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Data.OData.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Data.OData.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Data.Services.Client.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Data.Services.Client.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.Security.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Owin.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.ServiceBus.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.ServiceBus.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Threading.Tasks.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Threading.Tasks.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Common.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Common.NetFramework.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Common.NetFramework.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Common.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Management.Compute.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Management.Compute.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Management.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Management.MediaServices.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Management.MediaServices.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Management.Monitoring.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Management.Monitoring.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Management.Network.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Management.Network.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Management.Scheduler.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Management.Scheduler.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Management.Sql.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Management.Sql.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Management.Storage.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Management.Storage.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Management.WebSites.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Management.WebSites.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Management.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\MonAgentListener.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Newtonsoft.Json.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Newtonsoft.Json.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\Owin.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\csc.exe
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\csc.exe.config
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\csc.rsp
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\csi.exe
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\csi.rsp
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\System.AppContext.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\vbc.exe
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\vbc.exe.config
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\vbc.rsp
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\VBCSCompiler.exe
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\ru\System.Spatial.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\StackExchange.Redis.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\StackExchange.Redis.pdb
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\StackExchange.Redis.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Net.Http.Extensions.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Net.Http.Extensions.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Net.Http.Primitives.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Net.Http.Primitives.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Spatial.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Spatial.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Helpers.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Helpers.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Mvc.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Mvc.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Optimization.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Optimization.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Razor.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.Razor.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.WebPages.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.WebPages.Razor.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.WebPages.Razor.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\System.Web.WebPages.xml
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\VikramWebRole.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\VikramWebRole.dll.config
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\VikramWebRole.pdb
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\WebGrease.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWebRole\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\de\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\de\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\de\System.Spatial.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\es\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\es\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\es\System.Spatial.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\fr\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\fr\System.Spatial.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\it\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\it\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\it\System.Spatial.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\ja\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\ja\System.Spatial.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\ko\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\ko\System.Spatial.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\Microsoft.Data.Edm.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\Microsoft.Data.OData.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\Microsoft.Data.Services.Client.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\Microsoft.WindowsAzure.Storage.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\MonAgentListener.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\Newtonsoft.Json.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\ru\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\ru\System.Spatial.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\StackExchange.Redis.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\StackExchange.Redis.pdb
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\System.Spatial.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\VikramWorkerRole.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\VikramWorkerRole.dll.config
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\VikramWorkerRole.pdb
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\zh-Hans\System.Spatial.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikram.singh\Documents\Visual Studio 2015\Projects\VikramPOC\VikramPOC\obj\Debug\VikramWorkerRole\zh-Hant\System.Spatial.resources.dll
